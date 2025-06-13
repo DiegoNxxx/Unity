@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 20b9dfc413d17d140a21842810f84ecd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2588358020804867516
+    second: munequito2_0
+  - first:
+      213: -7233433700277999108
+    second: munequito2_1
+  - first:
+      213: 3354650906694110345
+    second: munequito2_2
+  - first:
+      213: 5041325311202218713
+    second: munequito2_3
+  - first:
+      213: 3744267092041967344
+    second: munequito2_4
+  - first:
+      213: 3221312353158199732
+    second: munequito2_5
+  - first:
+      213: -5583104837859902396
+    second: munequito2_6
+  - first:
+      213: 3709868472040532037
+    second: munequito2_7
+  - first:
+      213: 6650314912572079100
+    second: munequito2_8
+  - first:
+      213: -4411283991876979061
+    second: munequito2_9
+  - first:
+      213: 943598506503846180
+    second: munequito2_10
+  - first:
+      213: -3171967007529535357
+    second: munequito2_11
+  - first:
+      213: -2787745267256722789
+    second: munequito2_12
+  - first:
+      213: -2877105571683599561
+    second: munequito2_13
+  - first:
+      213: -6334272022665541044
+    second: munequito2_14
+  - first:
+      213: 7365769052852432972
+    second: munequito2_15
+  - first:
+      213: -8006259707565806384
+    second: munequito2_16
+  - first:
+      213: 7151282940526758095
+    second: munequito2_17
+  - first:
+      213: 3809155905571666570
+    second: munequito2_18
+  - first:
+      213: -6572208029639605221
+    second: munequito2_19
+  - first:
+      213: -2473276008355649801
+    second: munequito2_20
+  - first:
+      213: 4231950105795558774
+    second: munequito2_21
+  - first:
+      213: -2730273257070863456
+    second: munequito2_22
+  - first:
+      213: -8234352437584965432
+    second: munequito2_23
+  - first:
+      213: 6613067213797630873
+    second: munequito2_24
+  - first:
+      213: -1608674543088906820
+    second: munequito2_25
+  - first:
+      213: 7497953839831563627
+    second: munequito2_26
+  - first:
+      213: 1739147297714257824
+    second: munequito2_27
+  - first:
+      213: 3015435679870257644
+    second: munequito2_28
+  - first:
+      213: 7189986209947577895
+    second: munequito2_29
+  - first:
+      213: -8256588733909825699
+    second: munequito2_30
+  - first:
+      213: 316493723229492724
+    second: munequito2_31
+  - first:
+      213: 2526610959890971949
+    second: munequito2_32
+  - first:
+      213: -5623004978074607013
+    second: munequito2_33
+  - first:
+      213: -7397350677227156467
+    second: munequito2_34
+  - first:
+      213: 702742863212711666
+    second: munequito2_35
+  - first:
+      213: 4321432249418023410
+    second: munequito2_36
+  - first:
+      213: -6760227854248757845
+    second: munequito2_37
+  - first:
+      213: -8227145060073904265
+    second: munequito2_38
+  - first:
+      213: -1938145670981384759
+    second: munequito2_39
+  - first:
+      213: -3785493772384249341
+    second: munequito2_40
+  - first:
+      213: 7691413831128934793
+    second: munequito2_41
+  - first:
+      213: -5878732555075814188
+    second: munequito2_42
+  - first:
+      213: 6118598945850773288
+    second: munequito2_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: munequito2_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4419
+        width: 422
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a8462081e441cd0800000000000000
+      internalID: -2588358020804867516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_1
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 4419
+        width: 782
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9279cbf5ead9b90800000000000000
+      internalID: -7233433700277999108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_2
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 4419
+        width: 412
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cc1f6d93d1e8e20800000000000000
+      internalID: 3354650906694110345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_3
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 4419
+        width: 422
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2d46319a266f540800000000000000
+      internalID: 5041325311202218713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3619
+        width: 322
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6a85d051f46f330800000000000000
+      internalID: 3744267092041967344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3619
+        width: 312
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b97298948664bc20800000000000000
+      internalID: 3221312353158199732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_6
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 3619
+        width: 322
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c78930bb3d482b0800000000000000
+      internalID: -5583104837859902396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2819
+        width: 392
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548a56738b91c7330800000000000000
+      internalID: 3709868472040532037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_8
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2819
+        width: 372
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb77589d2aaa4c50800000000000000
+      internalID: 6650314912572079100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_9
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2819
+        width: 362
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b863ec4d498f7c2c0800000000000000
+      internalID: -4411283991876979061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_10
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 2819
+        width: 392
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42930ce97d5581d00800000000000000
+      internalID: 943598506503846180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_11
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 2819
+        width: 372
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38871fcffc8eaf3d0800000000000000
+      internalID: -3171967007529535357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_12
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 2819
+        width: 362
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9af2e41370ff49d0800000000000000
+      internalID: -2787745267256722789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2660
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b7082e9b77218d0800000000000000
+      internalID: -2877105571683599561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2662
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a4352e7252818a0800000000000000
+      internalID: -6334272022665541044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40b5d49de7783660800000000000000
+      internalID: 7365769052852432972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2677
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc6407073d04e090800000000000000
+      internalID: -8006259707565806384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2631
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8886ef1f57e3360800000000000000
+      internalID: 7151282940526758095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2650
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a3ea54d17dcd430800000000000000
+      internalID: 3809155905571666570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2639
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b148c5b3e93dac4a0800000000000000
+      internalID: -6572208029639605221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2657
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6277a03982dadd0800000000000000
+      internalID: -2473276008355649801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2626
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dfe1b0338eaba30800000000000000
+      internalID: 4231950105795558774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2665
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abda8430fe1c1ad0800000000000000
+      internalID: -2730273257070863456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2650
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c05062e514b9bd80800000000000000
+      internalID: -8234352437584965432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2659
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993a03ae79556cb50800000000000000
+      internalID: 6613067213797630873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2663
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdc8f3b607dca9e0800000000000000
+      internalID: -1608674543088906820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2681
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6dbf6d9a451e0860800000000000000
+      internalID: 7497953839831563627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2692
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afb65cb041b22810800000000000000
+      internalID: 1739147297714257824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1699
+        width: 542
+        height: 958
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce984bd36caf8d920800000000000000
+      internalID: 3015435679870257644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_29
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1699
+        width: 581
+        height: 967
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ee1ef1d56f7c360800000000000000
+      internalID: 7189986209947577895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_30
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1699
+        width: 834
+        height: 985
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5700d2ba44ba6d80800000000000000
+      internalID: -8256588733909825699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f51cba4d59646400800000000000000
+      internalID: 316493723229492724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1411
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2df8ed0843501320800000000000000
+      internalID: 2526610959890971949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1433
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b522c9fa3c217f1b0800000000000000
+      internalID: -5623004978074607013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1426
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c41ec70c4575990800000000000000
+      internalID: -7397350677227156467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1418
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe0c3a29e4a0c900800000000000000
+      internalID: 702742863212711666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 579
+        width: 1499
+        height: 916
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f18a732cbfc8fb30800000000000000
+      internalID: 4321432249418023410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_37
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 989
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba53dc27598de22a0800000000000000
+      internalID: -6760227854248757845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_38
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 929
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7776faa382f43dd80800000000000000
+      internalID: -8227145060073904265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_39
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 937
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5813ee7c25a15e0800000000000000
+      internalID: -1938145670981384759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_40
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 1025
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a559d6879377bc0800000000000000
+      internalID: -3785493772384249341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_41
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 885
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98967f8e0246dba60800000000000000
+      internalID: 7691413831128934793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_42
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 901
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc7e2553eb8a6ea0800000000000000
+      internalID: -5878732555075814188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: munequito2_43
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 39
+        width: 1148
+        height: 916
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc382d251a9e450800000000000000
+      internalID: 6118598945850773288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3adf08a0b9aa1504ca0dc381042523d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      munequito2_0: -2588358020804867516
+      munequito2_1: -7233433700277999108
+      munequito2_10: 943598506503846180
+      munequito2_11: -3171967007529535357
+      munequito2_12: -2787745267256722789
+      munequito2_13: -2877105571683599561
+      munequito2_14: -6334272022665541044
+      munequito2_15: 7365769052852432972
+      munequito2_16: -8006259707565806384
+      munequito2_17: 7151282940526758095
+      munequito2_18: 3809155905571666570
+      munequito2_19: -6572208029639605221
+      munequito2_2: 3354650906694110345
+      munequito2_20: -2473276008355649801
+      munequito2_21: 4231950105795558774
+      munequito2_22: -2730273257070863456
+      munequito2_23: -8234352437584965432
+      munequito2_24: 6613067213797630873
+      munequito2_25: -1608674543088906820
+      munequito2_26: 7497953839831563627
+      munequito2_27: 1739147297714257824
+      munequito2_28: 3015435679870257644
+      munequito2_29: 7189986209947577895
+      munequito2_3: 5041325311202218713
+      munequito2_30: -8256588733909825699
+      munequito2_31: 316493723229492724
+      munequito2_32: 2526610959890971949
+      munequito2_33: -5623004978074607013
+      munequito2_34: -7397350677227156467
+      munequito2_35: 702742863212711666
+      munequito2_36: 4321432249418023410
+      munequito2_37: -6760227854248757845
+      munequito2_38: -8227145060073904265
+      munequito2_39: -1938145670981384759
+      munequito2_4: 3744267092041967344
+      munequito2_40: -3785493772384249341
+      munequito2_41: 7691413831128934793
+      munequito2_42: -5878732555075814188
+      munequito2_43: 6118598945850773288
+      munequito2_5: 3221312353158199732
+      munequito2_6: -5583104837859902396
+      munequito2_7: 3709868472040532037
+      munequito2_8: 6650314912572079100
+      munequito2_9: -4411283991876979061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

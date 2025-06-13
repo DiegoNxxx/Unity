@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 6bb8deca17fe6a84eab510e3f02ee51b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2168133508365455511
+    second: Foxxy_0
+  - first:
+      213: -6417882384818051561
+    second: Foxxy_1
+  - first:
+      213: 4175010325429895617
+    second: Foxxy_2
+  - first:
+      213: 6574524154488509125
+    second: Foxxy_3
+  - first:
+      213: -7806028192841008953
+    second: Foxxy_4
+  - first:
+      213: -3911295096341434834
+    second: Foxxy_5
+  - first:
+      213: 3899471340207124981
+    second: Foxxy_6
+  - first:
+      213: -233620212863863815
+    second: Foxxy_7
+  - first:
+      213: -4307912270955334946
+    second: Foxxy_8
+  - first:
+      213: -6958210580499100293
+    second: Foxxy_9
+  - first:
+      213: 719714374611160490
+    second: Foxxy_10
+  - first:
+      213: 1901038868898923908
+    second: Foxxy_11
+  - first:
+      213: 6970553046988460130
+    second: Foxxy_12
+  - first:
+      213: 4530064791294136113
+    second: Foxxy_13
+  - first:
+      213: -5225902480657705761
+    second: Foxxy_14
+  - first:
+      213: -1091959042276337084
+    second: Foxxy_15
+  - first:
+      213: -4939066893371965779
+    second: Foxxy_16
+  - first:
+      213: 3267307994592688774
+    second: Foxxy_17
+  - first:
+      213: 7134125879394901005
+    second: Foxxy_18
+  - first:
+      213: 4664309020368257597
+    second: Foxxy_19
+  - first:
+      213: 6118534379999293168
+    second: Foxxy_20
+  - first:
+      213: 333103168868366237
+    second: Foxxy_21
+  - first:
+      213: -4074455216163201150
+    second: Foxxy_22
+  - first:
+      213: 5125896672869574006
+    second: Foxxy_23
+  - first:
+      213: -2010366826018047331
+    second: Foxxy_24
+  - first:
+      213: 4431306436695213952
+    second: Foxxy_25
+  - first:
+      213: -5484502809651465680
+    second: Foxxy_26
+  - first:
+      213: -5962711195442533600
+    second: Foxxy_27
+  - first:
+      213: -4874938171011244503
+    second: Foxxy_28
+  - first:
+      213: -7903136292135964338
+    second: Foxxy_29
+  - first:
+      213: 8344468554721258209
+    second: Foxxy_30
+  - first:
+      213: 4253845385980762109
+    second: Foxxy_31
+  - first:
+      213: 2600912180188099850
+    second: Foxxy_32
+  - first:
+      213: -1715140316561566009
+    second: Foxxy_33
+  - first:
+      213: 126885999047425768
+    second: Foxxy_34
+  - first:
+      213: 8717986869379509419
+    second: Foxxy_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Foxxy_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 15819
+        width: 492
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f6148bf0e39e1e0800000000000000
+      internalID: -2168133508365455511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_1
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 15819
+        width: 502
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716eea279f91fe6a0800000000000000
+      internalID: -6417882384818051561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_2
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 15819
+        width: 502
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c146d455cd90f930800000000000000
+      internalID: 4175010325429895617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14879
+        width: 451
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2538b92e66d3b50800000000000000
+      internalID: 6574524154488509125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 14819
+        width: 522
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8f60b77ba6ba390800000000000000
+      internalID: -7806028192841008953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_5
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 14889
+        width: 555
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e67d235d948b9c0800000000000000
+      internalID: -3911295096341434834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_6
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 14879
+        width: 582
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 11, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1bcdc0684bd1630800000000000000
+      internalID: 3899471340207124981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_7
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 14879
+        width: 472
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3f5e777a302ccf0800000000000000
+      internalID: -233620212863863815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_8
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 14829
+        width: 562
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed239262d983734c0800000000000000
+      internalID: -4307912270955334946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_9
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 14879
+        width: 592
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d8cfcd7587f6f90800000000000000
+      internalID: -6958210580499100293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_10
+      rect:
+        serializedVersion: 2
+        x: 3989
+        y: 14849
+        width: 542
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadc0761960fcf900800000000000000
+      internalID: 719714374611160490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 13729
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4854ee477c8d16a10800000000000000
+      internalID: 1901038868898923908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 13679
+        width: 512
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26093cd80116cb060800000000000000
+      internalID: 6970553046988460130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_13
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 13649
+        width: 532
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f47962de50ede30800000000000000
+      internalID: 4530064791294136113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_14
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 13699
+        width: 562
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd49091c16dd977b0800000000000000
+      internalID: -5225902480657705761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_15
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 13669
+        width: 562
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ad7d7590598d0f0800000000000000
+      internalID: -1091959042276337084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_16
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 13689
+        width: 562
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daefbaa24d8e47bb0800000000000000
+      internalID: -4939066893371965779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_17
+      rect:
+        serializedVersion: 2
+        x: 3429
+        y: 13639
+        width: 552
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68abd756f4fc75d20800000000000000
+      internalID: 3267307994592688774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_18
+      rect:
+        serializedVersion: 2
+        x: 4119
+        y: 13589
+        width: 642
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c114860b1810360800000000000000
+      internalID: 7134125879394901005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_19
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 13629
+        width: 572
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3243b96754fab040800000000000000
+      internalID: 4664309020368257597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5359
+        width: 481
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe6fd9e99669e450800000000000000
+      internalID: 6118534379999293168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_21
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 5359
+        width: 752
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97b4f5319b6f9400800000000000000
+      internalID: 333103168868366237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_22
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 5349
+        width: 712
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fda5b7190a477c0800000000000000
+      internalID: -4074455216163201150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_23
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 5349
+        width: 572
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6756fb5add7d22740800000000000000
+      internalID: 5125896672869574006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_24
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 5339
+        width: 782
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9af6fae50eb914e0800000000000000
+      internalID: -2010366826018047331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_25
+      rect:
+        serializedVersion: 2
+        x: 3789
+        y: 5349
+        width: 742
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087ce12e9b92f7d30800000000000000
+      internalID: 4431306436695213952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_26
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 5329
+        width: 602
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b715b0c123e3b0800000000000000
+      internalID: -5484502809651465680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_27
+      rect:
+        serializedVersion: 2
+        x: 5279
+        y: 5329
+        width: 722
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b276172c1304da0800000000000000
+      internalID: -5962711195442533600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_28
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 2159
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ed1eedf8db85cb0800000000000000
+      internalID: -4874938171011244503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_29
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1369
+        width: 632
+        height: 752
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41fcb73a6b625290800000000000000
+      internalID: -7903136292135964338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_30
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1369
+        width: 942
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eae39b80f18dc370800000000000000
+      internalID: 8344468554721258209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_31
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1349
+        width: 1042
+        height: 732
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df751d837d1b80b30800000000000000
+      internalID: 4253845385980762109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_32
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 1359
+        width: 1142
+        height: 782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05391009db481420800000000000000
+      internalID: 2600912180188099850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_33
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 2009
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6956328f89238e0800000000000000
+      internalID: -1715140316561566009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_34
+      rect:
+        serializedVersion: 2
+        x: 5149
+        y: 1369
+        width: 972
+        height: 742
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee3134d42ac2c100800000000000000
+      internalID: 126885999047425768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Foxxy_35
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 1749
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baca2e92ed28cf870800000000000000
+      internalID: 8717986869379509419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 71e481667cd0c094181f6138cea094be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Foxxy_0: -2168133508365455511
+      Foxxy_1: -6417882384818051561
+      Foxxy_10: 719714374611160490
+      Foxxy_11: 1901038868898923908
+      Foxxy_12: 6970553046988460130
+      Foxxy_13: 4530064791294136113
+      Foxxy_14: -5225902480657705761
+      Foxxy_15: -1091959042276337084
+      Foxxy_16: -4939066893371965779
+      Foxxy_17: 3267307994592688774
+      Foxxy_18: 7134125879394901005
+      Foxxy_19: 4664309020368257597
+      Foxxy_2: 4175010325429895617
+      Foxxy_20: 6118534379999293168
+      Foxxy_21: 333103168868366237
+      Foxxy_22: -4074455216163201150
+      Foxxy_23: 5125896672869574006
+      Foxxy_24: -2010366826018047331
+      Foxxy_25: 4431306436695213952
+      Foxxy_26: -5484502809651465680
+      Foxxy_27: -5962711195442533600
+      Foxxy_28: -4874938171011244503
+      Foxxy_29: -7903136292135964338
+      Foxxy_3: 6574524154488509125
+      Foxxy_30: 8344468554721258209
+      Foxxy_31: 4253845385980762109
+      Foxxy_32: 2600912180188099850
+      Foxxy_33: -1715140316561566009
+      Foxxy_34: 126885999047425768
+      Foxxy_35: 8717986869379509419
+      Foxxy_4: -7806028192841008953
+      Foxxy_5: -3911295096341434834
+      Foxxy_6: 3899471340207124981
+      Foxxy_7: -233620212863863815
+      Foxxy_8: -4307912270955334946
+      Foxxy_9: -6958210580499100293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

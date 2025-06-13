@@ -1,0 +1,4495 @@
+fileFormatVersion: 2
+guid: a916189e010491f408c76885ceb17733
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8999700194062977485
+    second: rexia_0
+  - first:
+      213: 8318842448994878352
+    second: rexia_1
+  - first:
+      213: 5705695736013342860
+    second: rexia_2
+  - first:
+      213: 708365678761430811
+    second: rexia_3
+  - first:
+      213: 945408831637174311
+    second: rexia_4
+  - first:
+      213: -2488957953013989504
+    second: rexia_5
+  - first:
+      213: 2282179446914323066
+    second: rexia_6
+  - first:
+      213: 4007508359301207315
+    second: rexia_7
+  - first:
+      213: 8645983078838282189
+    second: rexia_8
+  - first:
+      213: -4538246280020737193
+    second: rexia_9
+  - first:
+      213: 5157335154236444993
+    second: rexia_10
+  - first:
+      213: 8427803927527783884
+    second: rexia_11
+  - first:
+      213: -8567965672236323013
+    second: rexia_12
+  - first:
+      213: -2753113993550899448
+    second: rexia_13
+  - first:
+      213: 4055395990360190550
+    second: rexia_14
+  - first:
+      213: -3445633805746681863
+    second: rexia_15
+  - first:
+      213: -260133439719162080
+    second: rexia_16
+  - first:
+      213: 1344900372138394601
+    second: rexia_17
+  - first:
+      213: -3524537287317856979
+    second: rexia_18
+  - first:
+      213: -8716283249005823113
+    second: rexia_19
+  - first:
+      213: 625368742900159233
+    second: rexia_20
+  - first:
+      213: 220393463638061992
+    second: rexia_21
+  - first:
+      213: -8950853745376923512
+    second: rexia_22
+  - first:
+      213: -7656878948104783554
+    second: rexia_23
+  - first:
+      213: 6254051869605685574
+    second: rexia_24
+  - first:
+      213: -3887122473253519998
+    second: rexia_25
+  - first:
+      213: -7801236683697103430
+    second: rexia_26
+  - first:
+      213: -8238868013351277510
+    second: rexia_27
+  - first:
+      213: -8216727609842028676
+    second: rexia_28
+  - first:
+      213: -4015684823397422955
+    second: rexia_29
+  - first:
+      213: 8699796729598047846
+    second: rexia_30
+  - first:
+      213: -954750006591703313
+    second: rexia_31
+  - first:
+      213: -5074567173241826239
+    second: rexia_32
+  - first:
+      213: -2452402421719466331
+    second: rexia_33
+  - first:
+      213: 6285768489068320750
+    second: rexia_34
+  - first:
+      213: 1025183052073019930
+    second: rexia_35
+  - first:
+      213: -6367899236790834291
+    second: rexia_36
+  - first:
+      213: 5417565330241938176
+    second: rexia_37
+  - first:
+      213: -3189955658932465891
+    second: rexia_38
+  - first:
+      213: -5838928318215703705
+    second: rexia_39
+  - first:
+      213: -8730675413397742112
+    second: rexia_40
+  - first:
+      213: 8151155126947193291
+    second: rexia_41
+  - first:
+      213: 5853353773393565991
+    second: rexia_42
+  - first:
+      213: 5581001690832662420
+    second: rexia_43
+  - first:
+      213: 2880937181185281981
+    second: rexia_44
+  - first:
+      213: -9058808943359063846
+    second: rexia_45
+  - first:
+      213: 7410228799827060439
+    second: rexia_46
+  - first:
+      213: -3549949480464671631
+    second: rexia_47
+  - first:
+      213: 6091624319707374252
+    second: rexia_48
+  - first:
+      213: 1274647097240018001
+    second: rexia_49
+  - first:
+      213: -4637626819911622847
+    second: rexia_50
+  - first:
+      213: 321561251929213597
+    second: rexia_51
+  - first:
+      213: -2586606744141015729
+    second: rexia_52
+  - first:
+      213: -4377899636985251638
+    second: rexia_53
+  - first:
+      213: 2254135776832519800
+    second: rexia_54
+  - first:
+      213: 5464758184923925290
+    second: rexia_55
+  - first:
+      213: 7696482169057506964
+    second: rexia_56
+  - first:
+      213: 3032183090360717947
+    second: rexia_57
+  - first:
+      213: -5161793702096977199
+    second: rexia_58
+  - first:
+      213: 6641081089086006153
+    second: rexia_59
+  - first:
+      213: -7925624687404002380
+    second: rexia_60
+  - first:
+      213: 3637645005106974389
+    second: rexia_61
+  - first:
+      213: 1504350791578838535
+    second: rexia_62
+  - first:
+      213: 6630161483743445148
+    second: rexia_63
+  - first:
+      213: -6511488605770095524
+    second: rexia_64
+  - first:
+      213: -315440992931929998
+    second: rexia_65
+  - first:
+      213: 5799130959517696416
+    second: rexia_66
+  - first:
+      213: -8863422000268021492
+    second: rexia_67
+  - first:
+      213: -3297500436908344148
+    second: rexia_68
+  - first:
+      213: -543628523498345223
+    second: rexia_69
+  - first:
+      213: -2666614829224714568
+    second: rexia_70
+  - first:
+      213: -560385960694787091
+    second: rexia_71
+  - first:
+      213: -2664855719052181142
+    second: rexia_72
+  - first:
+      213: -7911972793697776398
+    second: rexia_73
+  - first:
+      213: -6910051463447329210
+    second: rexia_74
+  - first:
+      213: 4516187601881000333
+    second: rexia_75
+  - first:
+      213: -5129546237793187322
+    second: rexia_76
+  - first:
+      213: 6056132587696048351
+    second: rexia_77
+  - first:
+      213: 4324901605152484264
+    second: rexia_78
+  - first:
+      213: 7519271100155839464
+    second: rexia_79
+  - first:
+      213: -5123391894997474377
+    second: rexia_80
+  - first:
+      213: -6243360437560341165
+    second: rexia_81
+  - first:
+      213: -1035131326485207081
+    second: rexia_82
+  - first:
+      213: -8244538236633861227
+    second: rexia_83
+  - first:
+      213: 2605670385356830139
+    second: rexia_84
+  - first:
+      213: -984230686647361385
+    second: rexia_85
+  - first:
+      213: -5165573773249213140
+    second: rexia_86
+  - first:
+      213: -8371629108996132663
+    second: rexia_87
+  - first:
+      213: 7240540830875852915
+    second: rexia_88
+  - first:
+      213: 7538437053860597580
+    second: rexia_89
+  - first:
+      213: -7669771529375911141
+    second: rexia_90
+  - first:
+      213: -2123407629582322221
+    second: rexia_91
+  - first:
+      213: -4799094715557617837
+    second: rexia_92
+  - first:
+      213: -6037231758288169544
+    second: rexia_93
+  - first:
+      213: -8506646200460183403
+    second: rexia_94
+  - first:
+      213: 5715013699804336182
+    second: rexia_95
+  - first:
+      213: -671906536253970199
+    second: rexia_96
+  - first:
+      213: 7725894599060275307
+    second: rexia_97
+  - first:
+      213: 1768880534827228905
+    second: rexia_98
+  - first:
+      213: -1671722055808055032
+    second: rexia_99
+  - first:
+      213: -3177585976413493294
+    second: rexia_100
+  - first:
+      213: 7202160062582637438
+    second: rexia_101
+  - first:
+      213: -3054429628568431329
+    second: rexia_102
+  - first:
+      213: 573841557436860650
+    second: rexia_103
+  - first:
+      213: -372825838898074242
+    second: rexia_104
+  - first:
+      213: 235988832194072915
+    second: rexia_105
+  - first:
+      213: -2753825619003231184
+    second: rexia_106
+  - first:
+      213: 6941202945523414030
+    second: rexia_107
+  - first:
+      213: 3308403712430123363
+    second: rexia_108
+  - first:
+      213: -3859695876836670711
+    second: rexia_109
+  - first:
+      213: -3411785417293181816
+    second: rexia_110
+  - first:
+      213: -7850240480592461833
+    second: rexia_111
+  - first:
+      213: -5817775165930302078
+    second: rexia_112
+  - first:
+      213: 5184314839799963599
+    second: rexia_113
+  - first:
+      213: -2978682685206814332
+    second: rexia_114
+  - first:
+      213: 7109503033980813405
+    second: rexia_115
+  - first:
+      213: 1339185690811802531
+    second: rexia_116
+  - first:
+      213: -4183416184368770765
+    second: rexia_117
+  - first:
+      213: 331556215167573242
+    second: rexia_118
+  - first:
+      213: -1957084070007010552
+    second: rexia_119
+  - first:
+      213: 466418463524783614
+    second: rexia_120
+  - first:
+      213: 5710472985455777065
+    second: rexia_121
+  - first:
+      213: -2274559384129121636
+    second: rexia_122
+  - first:
+      213: -663598921006521287
+    second: rexia_123
+  - first:
+      213: 5388229029094612831
+    second: rexia_124
+  - first:
+      213: -1543579724220240239
+    second: rexia_125
+  - first:
+      213: -451697010310666608
+    second: rexia_126
+  - first:
+      213: -2890182894632012726
+    second: rexia_127
+  - first:
+      213: 4186790230795080427
+    second: rexia_128
+  - first:
+      213: 6238243883683359908
+    second: rexia_129
+  - first:
+      213: 6016105989792364864
+    second: rexia_130
+  - first:
+      213: -5738368187385485455
+    second: rexia_131
+  - first:
+      213: 1173515686474521145
+    second: rexia_132
+  - first:
+      213: 8303978611967211531
+    second: rexia_133
+  - first:
+      213: -601048311516031951
+    second: rexia_134
+  - first:
+      213: -1845294693585189559
+    second: rexia_135
+  - first:
+      213: -5791460271538131470
+    second: rexia_136
+  - first:
+      213: 5800169594607884616
+    second: rexia_137
+  - first:
+      213: -798986132779034603
+    second: rexia_138
+  - first:
+      213: -3705644964559943179
+    second: rexia_139
+  - first:
+      213: 1963324422276132805
+    second: rexia_140
+  - first:
+      213: -4167344319773683766
+    second: rexia_141
+  - first:
+      213: -2092644518294293099
+    second: rexia_142
+  - first:
+      213: -6941929310112361756
+    second: rexia_143
+  - first:
+      213: 5196030530466144683
+    second: rexia_144
+  - first:
+      213: 1778325600352840341
+    second: rexia_145
+  - first:
+      213: -3562905036502984619
+    second: rexia_146
+  - first:
+      213: -2871046502656877068
+    second: rexia_147
+  - first:
+      213: 5340579053974449950
+    second: rexia_148
+  - first:
+      213: -6325924707568264380
+    second: rexia_149
+  - first:
+      213: 2629089251835222736
+    second: rexia_150
+  - first:
+      213: 8993593074048985223
+    second: rexia_151
+  - first:
+      213: 6294355007247504973
+    second: rexia_152
+  - first:
+      213: 7316783626739921741
+    second: rexia_153
+  - first:
+      213: -7075277897208606244
+    second: rexia_154
+  - first:
+      213: -7549134478752445238
+    second: rexia_155
+  - first:
+      213: -1650828036481525758
+    second: rexia_156
+  - first:
+      213: -6921909209774149638
+    second: rexia_157
+  - first:
+      213: 5329760468301795925
+    second: rexia_158
+  - first:
+      213: 8268201525923338463
+    second: rexia_159
+  - first:
+      213: -1542334347056266636
+    second: rexia_160
+  - first:
+      213: -1950984297826315134
+    second: rexia_161
+  - first:
+      213: -4450559783302236530
+    second: rexia_162
+  - first:
+      213: -6015610638852408607
+    second: rexia_163
+  - first:
+      213: -591158624739569785
+    second: rexia_164
+  - first:
+      213: -4398916689372051772
+    second: rexia_165
+  - first:
+      213: 2348718710665431363
+    second: rexia_166
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rexia_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 12829
+        width: 562
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc94320e4ab55ec70800000000000000
+      internalID: 8999700194062977485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 12829
+        width: 542
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093c7cad127727370800000000000000
+      internalID: 8318842448994878352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_2
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 12829
+        width: 542
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c884985ba04be2f40800000000000000
+      internalID: 5705695736013342860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_3
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 13079
+        width: 392
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f47ade4de94d900800000000000000
+      internalID: 708365678761430811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_4
+      rect:
+        serializedVersion: 2
+        x: 6939
+        y: 13039
+        width: 702
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7283049c254ce1d00800000000000000
+      internalID: 945408831637174311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_5
+      rect:
+        serializedVersion: 2
+        x: 6799
+        y: 12809
+        width: 102
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fb7b5cde1757dd0800000000000000
+      internalID: -2488957953013989504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_6
+      rect:
+        serializedVersion: 2
+        x: 6909
+        y: 12809
+        width: 62
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72960f8d1eebaf10800000000000000
+      internalID: 2282179446914323066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_7
+      rect:
+        serializedVersion: 2
+        x: 6979
+        y: 12769
+        width: 122
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3159e8ebe978d9730800000000000000
+      internalID: 4007508359301207315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_8
+      rect:
+        serializedVersion: 2
+        x: 7109
+        y: 12769
+        width: 122
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7a1344dc3bcf770800000000000000
+      internalID: 8645983078838282189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_9
+      rect:
+        serializedVersion: 2
+        x: 7239
+        y: 12809
+        width: 122
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75340209d09e401c0800000000000000
+      internalID: -4538246280020737193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_10
+      rect:
+        serializedVersion: 2
+        x: 7369
+        y: 12809
+        width: 122
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141d5ef7ff8829740800000000000000
+      internalID: 5157335154236444993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_11
+      rect:
+        serializedVersion: 2
+        x: 7549
+        y: 12769
+        width: 242
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd7fe8050395f470800000000000000
+      internalID: 8427803927527783884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 11999
+        width: 662
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fec9abd98781980800000000000000
+      internalID: -8567965672236323013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_13
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 11999
+        width: 682
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807dd34d869fac9d0800000000000000
+      internalID: -2753113993550899448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_14
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 11999
+        width: 642
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e66f4ba29a74830800000000000000
+      internalID: 4055395990360190550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_15
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 11999
+        width: 582
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f744663f46ae20d0800000000000000
+      internalID: -3445633805746681863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_16
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 11999
+        width: 542
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fb65bc302d36cf0800000000000000
+      internalID: -260133439719162080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_17
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 11999
+        width: 522
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3899b43cb0aa210800000000000000
+      internalID: 1344900372138394601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_18
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 11989
+        width: 562
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ddccfc204561fc0800000000000000
+      internalID: -3524537287317856979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_19
+      rect:
+        serializedVersion: 2
+        x: 4449
+        y: 12009
+        width: 622
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bf15dd09a890780800000000000000
+      internalID: -8716283249005823113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_20
+      rect:
+        serializedVersion: 2
+        x: 6169
+        y: 12459
+        width: 322
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103523eee81cda800800000000000000
+      internalID: 625368742900159233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_21
+      rect:
+        serializedVersion: 2
+        x: 6519
+        y: 12459
+        width: 262
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3f6feffaefe0300800000000000000
+      internalID: 220393463638061992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_22
+      rect:
+        serializedVersion: 2
+        x: 6809
+        y: 12459
+        width: 262
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880755631fd28c380800000000000000
+      internalID: -8950853745376923512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_23
+      rect:
+        serializedVersion: 2
+        x: 7099
+        y: 12459
+        width: 262
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e393c022a2d4db590800000000000000
+      internalID: -7656878948104783554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_24
+      rect:
+        serializedVersion: 2
+        x: 7389
+        y: 12459
+        width: 262
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649e6be3a0bdac650800000000000000
+      internalID: 6254051869605685574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_25
+      rect:
+        serializedVersion: 2
+        x: 7679
+        y: 12459
+        width: 102
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d394794ba2e0ac0800000000000000
+      internalID: -3887122473253519998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_26
+      rect:
+        serializedVersion: 2
+        x: 7809
+        y: 12459
+        width: 262
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abddc73a1907cb390800000000000000
+      internalID: -7801236683697103430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_27
+      rect:
+        serializedVersion: 2
+        x: 8099
+        y: 12459
+        width: 262
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c6ed87139a9ad80800000000000000
+      internalID: -8238868013351277510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_28
+      rect:
+        serializedVersion: 2
+        x: 7099
+        y: 12149
+        width: 262
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fa83fd5c158fd80800000000000000
+      internalID: -8216727609842028676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_29
+      rect:
+        serializedVersion: 2
+        x: 7389
+        y: 12149
+        width: 262
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598287bddeb6548c0800000000000000
+      internalID: -4015684823397422955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 11169
+        width: 552
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666fbc53803ebb870800000000000000
+      internalID: 8699796729598047846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_31
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 11169
+        width: 542
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6bccf6deb00c2f0800000000000000
+      internalID: -954750006591703313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_32
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 11169
+        width: 532
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144101aca048399b0800000000000000
+      internalID: -5074567173241826239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_33
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 11169
+        width: 522
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae7a17adf057fdd0800000000000000
+      internalID: -2452402421719466331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_34
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 11169
+        width: 522
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7d24b23298b3750800000000000000
+      internalID: 6285768489068320750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_35
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 11169
+        width: 612
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a2090ed8e2a3e00800000000000000
+      internalID: 1025183052073019930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_36
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 11169
+        width: 632
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8be999f16da0a7a0800000000000000
+      internalID: -6367899236790834291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_37
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 11169
+        width: 522
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003ea80e6fe0f2b40800000000000000
+      internalID: 5417565330241938176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_38
+      rect:
+        serializedVersion: 2
+        x: 4709
+        y: 11169
+        width: 452
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f4514ba300bb3d0800000000000000
+      internalID: -3189955658932465891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_39
+      rect:
+        serializedVersion: 2
+        x: 5189
+        y: 11169
+        width: 452
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763b8cb61a5f7fea0800000000000000
+      internalID: -5838928318215703705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_40
+      rect:
+        serializedVersion: 2
+        x: 5659
+        y: 11169
+        width: 452
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edd037f7f866d680800000000000000
+      internalID: -8730675413397742112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_41
+      rect:
+        serializedVersion: 2
+        x: 6139
+        y: 11169
+        width: 462
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1aacab668be1170800000000000000
+      internalID: 8151155126947193291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_42
+      rect:
+        serializedVersion: 2
+        x: 6629
+        y: 11169
+        width: 472
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729d0d79e3a4b3150800000000000000
+      internalID: 5853353773393565991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_43
+      rect:
+        serializedVersion: 2
+        x: 7129
+        y: 11169
+        width: 612
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f6fe8e773b37d40800000000000000
+      internalID: 5581001690832662420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_44
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 10259
+        width: 612
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf83c83a152bf720800000000000000
+      internalID: 2880937181185281981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_45
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 10319
+        width: 412
+        height: 802
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad883faf245a84280800000000000000
+      internalID: -9058808943359063846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_46
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 10339
+        width: 432
+        height: 782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6af0615db66d660800000000000000
+      internalID: 7410228799827060439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_47
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 10399
+        width: 532
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c125681cb0cbec0800000000000000
+      internalID: -3549949480464671631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_48
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 10489
+        width: 692
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2e9414b0cc98450800000000000000
+      internalID: 6091624319707374252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_49
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 10259
+        width: 662
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c59f418c470b110800000000000000
+      internalID: 1274647097240018001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_50
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 10279
+        width: 692
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fd75e7af6d3afb0800000000000000
+      internalID: -4637626819911622847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_51
+      rect:
+        serializedVersion: 2
+        x: 4289
+        y: 10269
+        width: 662
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a45c2414a667400800000000000000
+      internalID: 321561251929213597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_52
+      rect:
+        serializedVersion: 2
+        x: 4979
+        y: 10269
+        width: 722
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4558d1eed68a1cd0800000000000000
+      internalID: -2586606744141015729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9319
+        width: 532
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8be2ba9739e33c0800000000000000
+      internalID: -4377899636985251638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_54
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 9319
+        width: 502
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ef99dcb8c484f10800000000000000
+      internalID: 2254135776832519800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_55
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 9319
+        width: 502
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b8ccb9d98b6db40800000000000000
+      internalID: 5464758184923925290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_56
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 9319
+        width: 512
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496fcca41c56fca60800000000000000
+      internalID: 7696482169057506964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_57
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 9319
+        width: 792
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7295ea947a741a20800000000000000
+      internalID: 3032183090360717947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_58
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 9319
+        width: 762
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d249aee9ff9d58b0800000000000000
+      internalID: -5161793702096977199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_59
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 9319
+        width: 742
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9832987801cd92c50800000000000000
+      internalID: 6641081089086006153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_60
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 9319
+        width: 742
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d73ca656820290800000000000000
+      internalID: -7925624687404002380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_61
+      rect:
+        serializedVersion: 2
+        x: 5419
+        y: 9319
+        width: 682
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be006cebd28b7230800000000000000
+      internalID: 3637645005106974389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_62
+      rect:
+        serializedVersion: 2
+        x: 6129
+        y: 9319
+        width: 582
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70662a5131780e410800000000000000
+      internalID: 1504350791578838535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_63
+      rect:
+        serializedVersion: 2
+        x: 6739
+        y: 9319
+        width: 532
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90410acdb0130c50800000000000000
+      internalID: 6630161483743445148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_64
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 9219
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54e116cc9b82a5a0800000000000000
+      internalID: -6511488605770095524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_65
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 9183
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27022b496145f9bf0800000000000000
+      internalID: -315440992931929998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_66
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 8519
+        width: 552
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1c500f1e6aa7050800000000000000
+      internalID: 5799130959517696416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_67
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 8509
+        width: 571
+        height: 810
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0174a3b6accef480800000000000000
+      internalID: -8863422000268021492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_68
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 9089
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacf163d2dcec32d0800000000000000
+      internalID: -3297500436908344148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_69
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 8499
+        width: 552
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc6c17fcb4a478f0800000000000000
+      internalID: -543628523498345223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_70
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 8499
+        width: 723
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be954fe0f74efad0800000000000000
+      internalID: -2666614829224714568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_71
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 8499
+        width: 823
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3dba310fb1938f0800000000000000
+      internalID: -560385960694787091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_72
+      rect:
+        serializedVersion: 2
+        x: 4939
+        y: 9089
+        width: 132
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a610a30b7d7840bd0800000000000000
+      internalID: -2664855719052181142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_73
+      rect:
+        serializedVersion: 2
+        x: 5239
+        y: 8499
+        width: 1091
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcc61fd9a6033290800000000000000
+      internalID: -7911972793697776398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_74
+      rect:
+        serializedVersion: 2
+        x: 5769
+        y: 9129
+        width: 142
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646cd851ec09a10a0800000000000000
+      internalID: -6910051463447329210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_75
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 9159
+        width: 192
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89e32532b8bcae30800000000000000
+      internalID: 4516187601881000333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_76
+      rect:
+        serializedVersion: 2
+        x: 6459
+        y: 8519
+        width: 1240
+        height: 711
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a456dcfd030d8b0800000000000000
+      internalID: -5129546237793187322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_77
+      rect:
+        serializedVersion: 2
+        x: 6939
+        y: 9039
+        width: 492
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd84a427084bb0450800000000000000
+      internalID: 6056132587696048351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_78
+      rect:
+        serializedVersion: 2
+        x: 7309
+        y: 9099
+        width: 262
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab61a77813250c30800000000000000
+      internalID: 4324901605152484264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_79
+      rect:
+        serializedVersion: 2
+        x: 2879
+        y: 8969
+        width: 192
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e346ae0a31d95860800000000000000
+      internalID: 7519271100155839464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_80
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 9069
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b36f85673e06e8b0800000000000000
+      internalID: -5123391894997474377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_81
+      rect:
+        serializedVersion: 2
+        x: 4939
+        y: 8999
+        width: 92
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d0d72c2c02b59a0800000000000000
+      internalID: -6243360437560341165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_82
+      rect:
+        serializedVersion: 2
+        x: 5629
+        y: 9019
+        width: 352
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d768fcfa8972a1f0800000000000000
+      internalID: -1035131326485207081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_83
+      rect:
+        serializedVersion: 2
+        x: 5939
+        y: 9019
+        width: 132
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593305cb724859d80800000000000000
+      internalID: -8244538236633861227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_84
+      rect:
+        serializedVersion: 2
+        x: 6109
+        y: 9029
+        width: 202
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5f2f8f863392420800000000000000
+      internalID: 2605670385356830139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_85
+      rect:
+        serializedVersion: 2
+        x: 7609
+        y: 9039
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7906859b76f4752f0800000000000000
+      internalID: -984230686647361385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 8499
+        width: 552
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d086885023058b0800000000000000
+      internalID: -5165573773249213140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_87
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 8499
+        width: 552
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c037fe1eaff1db80800000000000000
+      internalID: -8371629108996132663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_88
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 8499
+        width: 572
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370211e06819b7460800000000000000
+      internalID: 7240540830875852915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_89
+      rect:
+        serializedVersion: 2
+        x: 4879
+        y: 8879
+        width: 252
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fc0056f88ed9860800000000000000
+      internalID: 7538437053860597580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_90
+      rect:
+        serializedVersion: 2
+        x: 5839
+        y: 8769
+        width: 452
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13f4232e6f7f8590800000000000000
+      internalID: -7669771529375911141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_91
+      rect:
+        serializedVersion: 2
+        x: 6079
+        y: 8959
+        width: 172
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5346dd2042882e0800000000000000
+      internalID: -2123407629582322221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_92
+      rect:
+        serializedVersion: 2
+        x: 6999
+        y: 8909
+        width: 342
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fdbbb68c0366db0800000000000000
+      internalID: -4799094715557617837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_93
+      rect:
+        serializedVersion: 2
+        x: 7299
+        y: 8979
+        width: 232
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5d684d3b1773ca0800000000000000
+      internalID: -6037231758288169544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_94
+      rect:
+        serializedVersion: 2
+        x: 7539
+        y: 8959
+        width: 82
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598f4afc95252f980800000000000000
+      internalID: -8506646200460183403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_95
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 8819
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63014573eaecf4f40800000000000000
+      internalID: 5715013699804336182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_96
+      rect:
+        serializedVersion: 2
+        x: 7059
+        y: 8809
+        width: 162
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8a150b098eca6f0800000000000000
+      internalID: -671906536253970199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_97
+      rect:
+        serializedVersion: 2
+        x: 7329
+        y: 8839
+        width: 272
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60c81d4434e73b60800000000000000
+      internalID: 7725894599060275307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_98
+      rect:
+        serializedVersion: 2
+        x: 5879
+        y: 8749
+        width: 182
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeda7879735c8810800000000000000
+      internalID: 1768880534827228905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_99
+      rect:
+        serializedVersion: 2
+        x: 7359
+        y: 8769
+        width: 242
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809006cb5a9dcc8e0800000000000000
+      internalID: -1671722055808055032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_100
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 7639
+        width: 632
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d76c98d362f6e3d0800000000000000
+      internalID: -3177585976413493294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_101
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 7799
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e734eb11b6633f360800000000000000
+      internalID: 7202160062582637438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_102
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 7689
+        width: 662
+        height: 692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1510c59f6c7c95d0800000000000000
+      internalID: -3054429628568431329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_103
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 7679
+        width: 622
+        height: 682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8816c2bd1b6f700800000000000000
+      internalID: 573841557436860650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_104
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 7689
+        width: 552
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7da465ffd473daf0800000000000000
+      internalID: -372825838898074242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_105
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 7689
+        width: 552
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35113e1b796664300800000000000000
+      internalID: 235988832194072915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_106
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 7679
+        width: 622
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03431fd903278c9d0800000000000000
+      internalID: -2753825619003231184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_107
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 7689
+        width: 602
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0471d98d4b145060800000000000000
+      internalID: 6941202945523414030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_108
+      rect:
+        serializedVersion: 2
+        x: 4969
+        y: 7689
+        width: 552
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692bf4d5afc9ed20800000000000000
+      internalID: 3308403712430123363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_109
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 6729
+        width: 562
+        height: 702
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9034c10bc0b9f6ac0800000000000000
+      internalID: -3859695876836670711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_110
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 6879
+        width: 622
+        height: 572
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cc1684d37e6a0d0800000000000000
+      internalID: -3411785417293181816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_111
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 7099
+        width: 742
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fff4e010e75e0390800000000000000
+      internalID: -7850240480592461833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_112
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 7019
+        width: 652
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28592ab7f4c134fa0800000000000000
+      internalID: -5817775165930302078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_113
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 6929
+        width: 652
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf101e01e262f740800000000000000
+      internalID: 5184314839799963599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_114
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6109
+        width: 742
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48124a921e799a6d0800000000000000
+      internalID: -2978682685206814332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_115
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 6089
+        width: 742
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d500df577570aa260800000000000000
+      internalID: 7109503033980813405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_116
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 6139
+        width: 802
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3af1d5a4eb59210800000000000000
+      internalID: 1339185690811802531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_117
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 6129
+        width: 832
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331541f152581f5c0800000000000000
+      internalID: -4183416184368770765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_118
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 6089
+        width: 832
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcd22cfe9ce99400800000000000000
+      internalID: 331556215167573242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_119
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 6109
+        width: 812
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b08ab486a07d4e0800000000000000
+      internalID: -1957084070007010552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_120
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 6119
+        width: 822
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef504131f1d097600800000000000000
+      internalID: 466418463524783614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_121
+      rect:
+        serializedVersion: 2
+        x: 5889
+        y: 6119
+        width: 832
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9255e85ccecaf3f40800000000000000
+      internalID: 5710472985455777065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_122
+      rect:
+        serializedVersion: 2
+        x: 6749
+        y: 6119
+        width: 832
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92d3709a442f60e0800000000000000
+      internalID: -2274559384129121636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_123
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5259
+        width: 832
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934e2181c4c6ac6f0800000000000000
+      internalID: -663598921006521287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_124
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 5279
+        width: 732
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fd1aff0c5d6ca40800000000000000
+      internalID: 5388229029094612831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_125
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 5299
+        width: 742
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e6b574b6a149ae0800000000000000
+      internalID: -1543579724220240239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_126
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 5299
+        width: 602
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096a35a56ff3bb9f0800000000000000
+      internalID: -451697010310666608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_127
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 5289
+        width: 682
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a447c8d58f104e7d0800000000000000
+      internalID: -2890182894632012726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_128
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 5289
+        width: 582
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2dd9748877a1a30800000000000000
+      internalID: 4186790230795080427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_129
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 5359
+        width: 472
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac2335b2c1b29650800000000000000
+      internalID: 6238243883683359908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_130
+      rect:
+        serializedVersion: 2
+        x: 4999
+        y: 5349
+        width: 462
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0497ca4e5808d7350800000000000000
+      internalID: 6016105989792364864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_131
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 5349
+        width: 762
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1776c7869883d50b0800000000000000
+      internalID: -5738368187385485455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_132
+      rect:
+        serializedVersion: 2
+        x: 6279
+        y: 5359
+        width: 742
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a99ae9c4a294010800000000000000
+      internalID: 1173515686474521145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_133
+      rect:
+        serializedVersion: 2
+        x: 7049
+        y: 5359
+        width: 792
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b083fbc1d88ad3370800000000000000
+      internalID: 8303978611967211531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_134
+      rect:
+        serializedVersion: 2
+        x: 7869
+        y: 5369
+        width: 542
+        height: 592
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1341d33ceb5a8a7f0800000000000000
+      internalID: -601048311516031951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_135
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 4449
+        width: 512
+        height: 652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94501f2c0423466e0800000000000000
+      internalID: -1845294693585189559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_136
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 4449
+        width: 522
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdae28419990afa0800000000000000
+      internalID: -5791460271538131470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_137
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 4449
+        width: 542
+        height: 632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849df9304875e7050800000000000000
+      internalID: 5800169594607884616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_138
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 4449
+        width: 522
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5181e3f685e69e4f0800000000000000
+      internalID: -798986132779034603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_139
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3849
+        width: 832
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f980bfb987e29cc0800000000000000
+      internalID: -3705644964559943179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_140
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 3799
+        width: 752
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf2e90f8212f3b10800000000000000
+      internalID: 1963324422276132805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_141
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 3799
+        width: 822
+        height: 422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfc523bb6e9a26c0800000000000000
+      internalID: -4167344319773683766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_142
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3309
+        width: 832
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59576edd5ee65f2e0800000000000000
+      internalID: -2092644518294293099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_143
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3299
+        width: 742
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e251e6821059af90800000000000000
+      internalID: -6941929310112361756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_144
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 3329
+        width: 902
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1e48adc320c1840800000000000000
+      internalID: 5196030530466144683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_145
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 3319
+        width: 832
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aa30826b1eda810800000000000000
+      internalID: 1778325600352840341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_146
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2429
+        width: 552
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5581ac21fb40e8ec0800000000000000
+      internalID: -3562905036502984619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_147
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2459
+        width: 432
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd5283da6ef728d0800000000000000
+      internalID: -2871046502656877068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_148
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2559
+        width: 492
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fe90f9a5c8d1a40800000000000000
+      internalID: 5340579053974449950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_149
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2549
+        width: 502
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd681aefcc538a0800000000000000
+      internalID: -6325924707568264380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_150
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 2439
+        width: 542
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da9f6abeb66c7420800000000000000
+      internalID: 2629089251835222736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_151
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1679
+        width: 552
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7886a113049afcc70800000000000000
+      internalID: 8993593074048985223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_152
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1679
+        width: 542
+        height: 662
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d465039b78a0a5750800000000000000
+      internalID: 6294355007247504973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_153
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1739
+        width: 492
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d433a3a41ff6a8560800000000000000
+      internalID: 7316783626739921741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_154
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1709
+        width: 502
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd155b92d309fcd90800000000000000
+      internalID: -7075277897208606244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_155
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1679
+        width: 432
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc8e4840361c3790800000000000000
+      internalID: -7549134478752445238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_156
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1729
+        width: 722
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2085344b5a41719e0800000000000000
+      internalID: -1650828036481525758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_157
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 959
+        width: 462
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff28ef5f3070ff90800000000000000
+      internalID: -6921909209774149638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_158
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 959
+        width: 452
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5525c0b58ec17f940800000000000000
+      internalID: 5329760468301795925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_159
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 109
+        width: 722
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8d0042b7d8eb270800000000000000
+      internalID: 8268201525923338463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_160
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 109
+        width: 722
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472c3de3517889ae0800000000000000
+      internalID: -1542334347056266636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_161
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 109
+        width: 722
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28492bd2e16bce4e0800000000000000
+      internalID: -1950984297826315134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_162
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 109
+        width: 712
+        height: 672
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8671a8057f6c32c0800000000000000
+      internalID: -4450559783302236530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_163
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 79
+        width: 782
+        height: 782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea342cfef1448ca0800000000000000
+      internalID: -6015610638852408607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_164
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 79
+        width: 782
+        height: 782
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f4d76ec58cbc7f0800000000000000
+      internalID: -591158624739569785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_165
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 239
+        width: 912
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c60175d398e3f2c0800000000000000
+      internalID: -4398916689372051772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_166
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 239
+        width: 912
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349c68a2933589020800000000000000
+      internalID: 2348718710665431363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_167
+      rect:
+        serializedVersion: 2
+        x: 6999
+        y: 8853
+        width: 631
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cdba6210577ed44ad1b66233f1944b
+      internalID: 377453403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: da1d39a081a83a445b57537622f3f108
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rexia_0: 8999700194062977485
+      rexia_1: 8318842448994878352
+      rexia_10: 5157335154236444993
+      rexia_100: -3177585976413493294
+      rexia_101: 7202160062582637438
+      rexia_102: -3054429628568431329
+      rexia_103: 573841557436860650
+      rexia_104: -372825838898074242
+      rexia_105: 235988832194072915
+      rexia_106: -2753825619003231184
+      rexia_107: 6941202945523414030
+      rexia_108: 3308403712430123363
+      rexia_109: -3859695876836670711
+      rexia_11: 8427803927527783884
+      rexia_110: -3411785417293181816
+      rexia_111: -7850240480592461833
+      rexia_112: -5817775165930302078
+      rexia_113: 5184314839799963599
+      rexia_114: -2978682685206814332
+      rexia_115: 7109503033980813405
+      rexia_116: 1339185690811802531
+      rexia_117: -4183416184368770765
+      rexia_118: 331556215167573242
+      rexia_119: -1957084070007010552
+      rexia_12: -8567965672236323013
+      rexia_120: 466418463524783614
+      rexia_121: 5710472985455777065
+      rexia_122: -2274559384129121636
+      rexia_123: -663598921006521287
+      rexia_124: 5388229029094612831
+      rexia_125: -1543579724220240239
+      rexia_126: -451697010310666608
+      rexia_127: -2890182894632012726
+      rexia_128: 4186790230795080427
+      rexia_129: 6238243883683359908
+      rexia_13: -2753113993550899448
+      rexia_130: 6016105989792364864
+      rexia_131: -5738368187385485455
+      rexia_132: 1173515686474521145
+      rexia_133: 8303978611967211531
+      rexia_134: -601048311516031951
+      rexia_135: -1845294693585189559
+      rexia_136: -5791460271538131470
+      rexia_137: 5800169594607884616
+      rexia_138: -798986132779034603
+      rexia_139: -3705644964559943179
+      rexia_14: 4055395990360190550
+      rexia_140: 1963324422276132805
+      rexia_141: -4167344319773683766
+      rexia_142: -2092644518294293099
+      rexia_143: -6941929310112361756
+      rexia_144: 5196030530466144683
+      rexia_145: 1778325600352840341
+      rexia_146: -3562905036502984619
+      rexia_147: -2871046502656877068
+      rexia_148: 5340579053974449950
+      rexia_149: -6325924707568264380
+      rexia_15: -3445633805746681863
+      rexia_150: 2629089251835222736
+      rexia_151: 8993593074048985223
+      rexia_152: 6294355007247504973
+      rexia_153: 7316783626739921741
+      rexia_154: -7075277897208606244
+      rexia_155: -7549134478752445238
+      rexia_156: -1650828036481525758
+      rexia_157: -6921909209774149638
+      rexia_158: 5329760468301795925
+      rexia_159: 8268201525923338463
+      rexia_16: -260133439719162080
+      rexia_160: -1542334347056266636
+      rexia_161: -1950984297826315134
+      rexia_162: -4450559783302236530
+      rexia_163: -6015610638852408607
+      rexia_164: -591158624739569785
+      rexia_165: -4398916689372051772
+      rexia_166: 2348718710665431363
+      rexia_167: 377453403
+      rexia_17: 1344900372138394601
+      rexia_18: -3524537287317856979
+      rexia_19: -8716283249005823113
+      rexia_2: 5705695736013342860
+      rexia_20: 625368742900159233
+      rexia_21: 220393463638061992
+      rexia_22: -8950853745376923512
+      rexia_23: -7656878948104783554
+      rexia_24: 6254051869605685574
+      rexia_25: -3887122473253519998
+      rexia_26: -7801236683697103430
+      rexia_27: -8238868013351277510
+      rexia_28: -8216727609842028676
+      rexia_29: -4015684823397422955
+      rexia_3: 708365678761430811
+      rexia_30: 8699796729598047846
+      rexia_31: -954750006591703313
+      rexia_32: -5074567173241826239
+      rexia_33: -2452402421719466331
+      rexia_34: 6285768489068320750
+      rexia_35: 1025183052073019930
+      rexia_36: -6367899236790834291
+      rexia_37: 5417565330241938176
+      rexia_38: -3189955658932465891
+      rexia_39: -5838928318215703705
+      rexia_4: 945408831637174311
+      rexia_40: -8730675413397742112
+      rexia_41: 8151155126947193291
+      rexia_42: 5853353773393565991
+      rexia_43: 5581001690832662420
+      rexia_44: 2880937181185281981
+      rexia_45: -9058808943359063846
+      rexia_46: 7410228799827060439
+      rexia_47: -3549949480464671631
+      rexia_48: 6091624319707374252
+      rexia_49: 1274647097240018001
+      rexia_5: -2488957953013989504
+      rexia_50: -4637626819911622847
+      rexia_51: 321561251929213597
+      rexia_52: -2586606744141015729
+      rexia_53: -4377899636985251638
+      rexia_54: 2254135776832519800
+      rexia_55: 5464758184923925290
+      rexia_56: 7696482169057506964
+      rexia_57: 3032183090360717947
+      rexia_58: -5161793702096977199
+      rexia_59: 6641081089086006153
+      rexia_6: 2282179446914323066
+      rexia_60: -7925624687404002380
+      rexia_61: 3637645005106974389
+      rexia_62: 1504350791578838535
+      rexia_63: 6630161483743445148
+      rexia_64: -6511488605770095524
+      rexia_65: -315440992931929998
+      rexia_66: 5799130959517696416
+      rexia_67: -8863422000268021492
+      rexia_68: -3297500436908344148
+      rexia_69: -543628523498345223
+      rexia_7: 4007508359301207315
+      rexia_70: -2666614829224714568
+      rexia_71: -560385960694787091
+      rexia_72: -2664855719052181142
+      rexia_73: -7911972793697776398
+      rexia_74: -6910051463447329210
+      rexia_75: 4516187601881000333
+      rexia_76: -5129546237793187322
+      rexia_77: 6056132587696048351
+      rexia_78: 4324901605152484264
+      rexia_79: 7519271100155839464
+      rexia_8: 8645983078838282189
+      rexia_80: -5123391894997474377
+      rexia_81: -6243360437560341165
+      rexia_82: -1035131326485207081
+      rexia_83: -8244538236633861227
+      rexia_84: 2605670385356830139
+      rexia_85: -984230686647361385
+      rexia_86: -5165573773249213140
+      rexia_87: -8371629108996132663
+      rexia_88: 7240540830875852915
+      rexia_89: 7538437053860597580
+      rexia_9: -4538246280020737193
+      rexia_90: -7669771529375911141
+      rexia_91: -2123407629582322221
+      rexia_92: -4799094715557617837
+      rexia_93: -6037231758288169544
+      rexia_94: -8506646200460183403
+      rexia_95: 5715013699804336182
+      rexia_96: -671906536253970199
+      rexia_97: 7725894599060275307
+      rexia_98: 1768880534827228905
+      rexia_99: -1671722055808055032
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

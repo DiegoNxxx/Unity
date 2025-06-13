@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: ec7fdcb542221fc4aa4b8f3c3872dcb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9125958455567559277
+    second: casio-export_0
+  - first:
+      213: -7356297815169800447
+    second: casio-export_1
+  - first:
+      213: 580995312677096558
+    second: casio-export_2
+  - first:
+      213: 6322823929758863889
+    second: casio-export_3
+  - first:
+      213: -7658467536038922840
+    second: casio-export_4
+  - first:
+      213: -1134714538112889476
+    second: casio-export_5
+  - first:
+      213: 584311472923825934
+    second: casio-export_6
+  - first:
+      213: 9011523871979970486
+    second: casio-export_7
+  - first:
+      213: -1724093490483107983
+    second: casio-export_8
+  - first:
+      213: -1357047347011792720
+    second: casio-export_9
+  - first:
+      213: -4317135567536565514
+    second: casio-export_10
+  - first:
+      213: -6500460060547434875
+    second: casio-export_11
+  - first:
+      213: -9037094635641521288
+    second: casio-export_12
+  - first:
+      213: 5580343145855223342
+    second: casio-export_13
+  - first:
+      213: 2943991291340221558
+    second: casio-export_14
+  - first:
+      213: 1048253562315461891
+    second: casio-export_15
+  - first:
+      213: 8559026161843258282
+    second: casio-export_16
+  - first:
+      213: -3807446590068208512
+    second: casio-export_17
+  - first:
+      213: -2442737676176290663
+    second: casio-export_18
+  - first:
+      213: -7596416507708845616
+    second: casio-export_19
+  - first:
+      213: 8601820191121335250
+    second: casio-export_20
+  - first:
+      213: -1104418115038523546
+    second: casio-export_21
+  - first:
+      213: 5078335613114061510
+    second: casio-export_22
+  - first:
+      213: 3758273105346558694
+    second: casio-export_23
+  - first:
+      213: -4873625791205140483
+    second: casio-export_24
+  - first:
+      213: -6016206867806833774
+    second: casio-export_25
+  - first:
+      213: 1345619559309342855
+    second: casio-export_26
+  - first:
+      213: 1356411030584663321
+    second: casio-export_27
+  - first:
+      213: -3818869839217274743
+    second: casio-export_28
+  - first:
+      213: -4362662850453525917
+    second: casio-export_29
+  - first:
+      213: 8778268814340113748
+    second: casio-export_30
+  - first:
+      213: -6064719786431148457
+    second: casio-export_31
+  - first:
+      213: -7889348858006563180
+    second: casio-export_32
+  - first:
+      213: 2207375617952349081
+    second: casio-export_33
+  - first:
+      213: -6836380528839200939
+    second: casio-export_34
+  - first:
+      213: 5086127549566740807
+    second: casio-export_35
+  - first:
+      213: 8308186967853901970
+    second: casio-export_36
+  - first:
+      213: -2203815512750446932
+    second: casio-export_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: casio-export_0
+      rect:
+        serializedVersion: 2
+        x: 12219
+        y: 19689
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6aa31b2ddae5ae70800000000000000
+      internalID: 9125958455567559277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_1
+      rect:
+        serializedVersion: 2
+        x: 12219
+        y: 19629
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10762d8cc1e29e990800000000000000
+      internalID: -7356297815169800447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_2
+      rect:
+        serializedVersion: 2
+        x: 12219
+        y: 19299
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c094c982c101800800000000000000
+      internalID: 580995312677096558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_3
+      rect:
+        serializedVersion: 2
+        x: 12219
+        y: 19099
+        width: 22
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112dd964dde2fb750800000000000000
+      internalID: 6322823929758863889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_4
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18339
+        width: 332
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5f98e2a58a7b590800000000000000
+      internalID: -7658467536038922840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 18339
+        width: 282
+        height: 482
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d4f4ab32fa040f0800000000000000
+      internalID: -1134714538112889476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_6
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 18339
+        width: 222
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e075fc55034eb1800800000000000000
+      internalID: 584311472923825934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_7
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 18339
+        width: 212
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf915a673d5f0d70800000000000000
+      internalID: 9011523871979970486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_8
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 18339
+        width: 272
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177e034ea1ac218e0800000000000000
+      internalID: -1724093490483107983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_9
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 18339
+        width: 262
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0d9f9b0acca2de0800000000000000
+      internalID: -1357047347011792720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_10
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 18339
+        width: 232
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f257c113147614c0800000000000000
+      internalID: -4317135567536565514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_11
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 18339
+        width: 202
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586b47e040ab9c5a0800000000000000
+      internalID: -6500460060547434875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_12
+      rect:
+        serializedVersion: 2
+        x: 12219
+        y: 18119
+        width: 12
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bbff83f4ac59280800000000000000
+      internalID: -9037094635641521288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_13
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 17379
+        width: 492
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e268c75768c517d40800000000000000
+      internalID: 5580343145855223342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_14
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 17379
+        width: 492
+        height: 622
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c6d264b782bd820800000000000000
+      internalID: 2943991291340221558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_15
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 17379
+        width: 952
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305d950af052c8e00800000000000000
+      internalID: 1048253562315461891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_16
+      rect:
+        serializedVersion: 2
+        x: 12219
+        y: 17909
+        width: 22
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa341ff42f4c7c670800000000000000
+      internalID: 8559026161843258282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_17
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 17379
+        width: 422
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c46b1cf7b392bc0800000000000000
+      internalID: -3807446590068208512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_18
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 17379
+        width: 962
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c8c049607a91ed0800000000000000
+      internalID: -2442737676176290663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_19
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 16739
+        width: 342
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1d91c0f6b149690800000000000000
+      internalID: -7596416507708845616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_20
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 16739
+        width: 468
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3e191b3edcf5770800000000000000
+      internalID: 8601820191121335250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_21
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 17149
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f4f9963915ca0f0800000000000000
+      internalID: -1104418115038523546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_22
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 17169
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c211ed755fd97640800000000000000
+      internalID: 5078335613114061510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_23
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 16739
+        width: 477
+        height: 533
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eaf5152a71182430800000000000000
+      internalID: 3758273105346558694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_24
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 17169
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7190b1a276d5cb0800000000000000
+      internalID: -4873625791205140483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_25
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 16739
+        width: 462
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293bb1d9ab3228ca0800000000000000
+      internalID: -6016206867806833774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_26
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 16739
+        width: 662
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788737b1cd99ca210800000000000000
+      internalID: 1345619559309342855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 16739
+        width: 402
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d9b6f45a0f2d210800000000000000
+      internalID: 1356411030584663321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_28
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 17119
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980500e4d16a00bc0800000000000000
+      internalID: -3818869839217274743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_29
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 16999
+        width: 162
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36aaceb7045b473c0800000000000000
+      internalID: -4362662850453525917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_30
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 17049
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455c1a53afca2d970800000000000000
+      internalID: 8778268814340113748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_31
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 16929
+        width: 202
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e0d7b8c79c5dba0800000000000000
+      internalID: -6064719786431148457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_32
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 17049
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49692616307638290800000000000000
+      internalID: -7889348858006563180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_33
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 16929
+        width: 142
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b78e9ed6c22ae10800000000000000
+      internalID: 2207375617952349081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 16099
+        width: 322
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f6425312c4021a0800000000000000
+      internalID: -6836380528839200939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_35
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 16099
+        width: 432
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749e0421f0e859640800000000000000
+      internalID: 5086127549566740807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_36
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 16099
+        width: 452
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2982672570c9c4370800000000000000
+      internalID: 8308186967853901970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: casio-export_37
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 16099
+        width: 512
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6a30ca7797a61e0800000000000000
+      internalID: -2203815512750446932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7c75ce2ca5bd65e4c9c18814a8cd1432
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      casio-export_0: 9125958455567559277
+      casio-export_1: -7356297815169800447
+      casio-export_10: -4317135567536565514
+      casio-export_11: -6500460060547434875
+      casio-export_12: -9037094635641521288
+      casio-export_13: 5580343145855223342
+      casio-export_14: 2943991291340221558
+      casio-export_15: 1048253562315461891
+      casio-export_16: 8559026161843258282
+      casio-export_17: -3807446590068208512
+      casio-export_18: -2442737676176290663
+      casio-export_19: -7596416507708845616
+      casio-export_2: 580995312677096558
+      casio-export_20: 8601820191121335250
+      casio-export_21: -1104418115038523546
+      casio-export_22: 5078335613114061510
+      casio-export_23: 3758273105346558694
+      casio-export_24: -4873625791205140483
+      casio-export_25: -6016206867806833774
+      casio-export_26: 1345619559309342855
+      casio-export_27: 1356411030584663321
+      casio-export_28: -3818869839217274743
+      casio-export_29: -4362662850453525917
+      casio-export_3: 6322823929758863889
+      casio-export_30: 8778268814340113748
+      casio-export_31: -6064719786431148457
+      casio-export_32: -7889348858006563180
+      casio-export_33: 2207375617952349081
+      casio-export_34: -6836380528839200939
+      casio-export_35: 5086127549566740807
+      casio-export_36: 8308186967853901970
+      casio-export_37: -2203815512750446932
+      casio-export_4: -7658467536038922840
+      casio-export_5: -1134714538112889476
+      casio-export_6: 584311472923825934
+      casio-export_7: 9011523871979970486
+      casio-export_8: -1724093490483107983
+      casio-export_9: -1357047347011792720
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

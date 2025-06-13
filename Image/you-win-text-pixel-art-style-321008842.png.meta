@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: c37000c8d4833fe4389a578bd531923d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2645035675225856276
+    second: you-win-text-pixel-art-style-321008842_0
+  - first:
+      213: 7600614683031924462
+    second: you-win-text-pixel-art-style-321008842_1
+  - first:
+      213: -6201464662956784879
+    second: you-win-text-pixel-art-style-321008842_2
+  - first:
+      213: 8882074487636807
+    second: you-win-text-pixel-art-style-321008842_3
+  - first:
+      213: 5073135313191853415
+    second: you-win-text-pixel-art-style-321008842_4
+  - first:
+      213: -3665749694708049611
+    second: you-win-text-pixel-art-style-321008842_5
+  - first:
+      213: -5534746891594523279
+    second: you-win-text-pixel-art-style-321008842_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: you-win-text-pixel-art-style-321008842_0
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 4189
+        width: 15321
+        height: 2422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66def3112fa4bd0800000000000000
+      internalID: -2645035675225856276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you-win-text-pixel-art-style-321008842_1
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 4189
+        width: 1892
+        height: 2432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee6cb0d8ceca7960800000000000000
+      internalID: 7600614683031924462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you-win-text-pixel-art-style-321008842_2
+      rect:
+        serializedVersion: 2
+        x: 5449
+        y: 4189
+        width: 1892
+        height: 2422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113c25deeb8ffe9a0800000000000000
+      internalID: -6201464662956784879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you-win-text-pixel-art-style-321008842_3
+      rect:
+        serializedVersion: 2
+        x: 8779
+        y: 4189
+        width: 1882
+        height: 2422
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74344be133e8f1000800000000000000
+      internalID: 8882074487636807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you-win-text-pixel-art-style-321008842_4
+      rect:
+        serializedVersion: 2
+        x: 11169
+        y: 4189
+        width: 632
+        height: 2432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d5a4050b5676640800000000000000
+      internalID: 5073135313191853415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you-win-text-pixel-art-style-321008842_5
+      rect:
+        serializedVersion: 2
+        x: 12299
+        y: 4179
+        width: 1892
+        height: 2432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5391e6b1314a02dc0800000000000000
+      internalID: -3665749694708049611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: you-win-text-pixel-art-style-321008842_6
+      rect:
+        serializedVersion: 2
+        x: 14689
+        y: 4189
+        width: 632
+        height: 2432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d9fc4c601a033b0800000000000000
+      internalID: -5534746891594523279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 520d7a4786972c048ae2ec46b6312cff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      you-win-text-pixel-art-style-321008842_0: -2645035675225856276
+      you-win-text-pixel-art-style-321008842_1: 7600614683031924462
+      you-win-text-pixel-art-style-321008842_2: -6201464662956784879
+      you-win-text-pixel-art-style-321008842_3: 8882074487636807
+      you-win-text-pixel-art-style-321008842_4: 5073135313191853415
+      you-win-text-pixel-art-style-321008842_5: -3665749694708049611
+      you-win-text-pixel-art-style-321008842_6: -5534746891594523279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

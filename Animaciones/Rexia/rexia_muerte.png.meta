@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 2fd692f4273f8a0438184dafdb4b3c51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5698703360214407150
+    second: rexia_muerte_0
+  - first:
+      213: -8195667623903104065
+    second: rexia_muerte_1
+  - first:
+      213: 5646504804066321838
+    second: rexia_muerte_2
+  - first:
+      213: -5686093980685070732
+    second: rexia_muerte_3
+  - first:
+      213: 7460009676752192396
+    second: rexia_muerte_4
+  - first:
+      213: -178743500383340702
+    second: rexia_muerte_5
+  - first:
+      213: -3190857905431122083
+    second: rexia_muerte_6
+  - first:
+      213: 580608940765062960
+    second: rexia_muerte_7
+  - first:
+      213: -362652286495770453
+    second: rexia_muerte_8
+  - first:
+      213: -8870179916283612843
+    second: rexia_muerte_9
+  - first:
+      213: -7641892141255459069
+    second: rexia_muerte_10
+  - first:
+      213: 1225397313334603436
+    second: rexia_muerte_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rexia_muerte_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 9429
+        width: 362
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee797e9538cd51f40800000000000000
+      internalID: 5698703360214407150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 9419
+        width: 392
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3f514f7b3234e80800000000000000
+      internalID: -8195667623903104065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_2
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 9429
+        width: 352
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5e8ece33a6c5e40800000000000000
+      internalID: 5646504804066321838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_3
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 9429
+        width: 352
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e87c996afe611b0800000000000000
+      internalID: -5686093980685070732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_4
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 9429
+        width: 262
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c838ac3b647478760800000000000000
+      internalID: 7460009676752192396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_5
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 9489
+        width: 162
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267bdb1cbb9f48df0800000000000000
+      internalID: -178743500383340702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 6689
+        width: 562
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fe70214abc7b3d0800000000000000
+      internalID: -3190857905431122083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_7
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 6839
+        width: 622
+        height: 572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037a7b361ccbe0800800000000000000
+      internalID: 580608940765062960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_8
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 6939
+        width: 732
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8bf66baa997faf0800000000000000
+      internalID: -362652286495770453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_9
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 6859
+        width: 652
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5517c14cc5ac6e480800000000000000
+      internalID: -8870179916283612843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_10
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 6759
+        width: 662
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f7e94069b82f590800000000000000
+      internalID: -7641892141255459069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rexia_muerte_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5199
+        width: 832
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caee6023d5c710110800000000000000
+      internalID: 1225397313334603436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      rexia_muerte_0: 5698703360214407150
+      rexia_muerte_1: -8195667623903104065
+      rexia_muerte_10: -7641892141255459069
+      rexia_muerte_11: 1225397313334603436
+      rexia_muerte_2: 5646504804066321838
+      rexia_muerte_3: -5686093980685070732
+      rexia_muerte_4: 7460009676752192396
+      rexia_muerte_5: -178743500383340702
+      rexia_muerte_6: -3190857905431122083
+      rexia_muerte_7: 580608940765062960
+      rexia_muerte_8: -362652286495770453
+      rexia_muerte_9: -8870179916283612843
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
